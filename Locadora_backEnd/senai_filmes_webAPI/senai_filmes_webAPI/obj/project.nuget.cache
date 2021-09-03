@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GlNYgPYA4jGtTiteoKoBAwDeAgxcTNP59VpSzKgS4a1hCbWH/BfTBs/n2TNM2P5aEQS4Y+PkwrvRKimxVpwFpQ==",
+  "dgSpecHash": "+R7gEVtqEWnjYSsOjYxeL+1EWQV3RIlc2BcHQsyIvnycRSpHooiV5TGnPU9e2Nf+4uM/zwIgGfDez8owcfYcqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samue\\Desktop\\Sprint2\\Senai_Sprint2_BackEnd\\Locadora_backEnd\\senai_filmes_webAPI\\senai_filmes_webAPI\\senai_filmes_webAPI.csproj",
+  "projectFilePath": "C:\\Users\\samue\\Documents\\Desenvolvimento de sistemas\\Desenvolvimento de Sistemas\\Banco de dados\\Sprint 2\\Locadora_backEnd\\senai_filmes_webAPI\\senai_filmes_webAPI\\senai_filmes_webAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samue\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\samue\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

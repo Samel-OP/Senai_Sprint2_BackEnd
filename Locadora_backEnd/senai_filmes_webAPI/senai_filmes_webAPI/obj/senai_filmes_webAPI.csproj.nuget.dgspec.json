@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samue\\Desktop\\Sprint2\\Senai_Sprint2_BackEnd\\Locadora_backEnd\\senai_filmes_webAPI\\senai_filmes_webAPI\\senai_filmes_webAPI.csproj": {}
+    "C:\\Users\\samue\\Documents\\Desenvolvimento de sistemas\\Desenvolvimento de Sistemas\\Banco de dados\\Sprint 2\\Locadora_backEnd\\senai_filmes_webAPI\\senai_filmes_webAPI\\senai_filmes_webAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samue\\Desktop\\Sprint2\\Senai_Sprint2_BackEnd\\Locadora_backEnd\\senai_filmes_webAPI\\senai_filmes_webAPI\\senai_filmes_webAPI.csproj": {
+    "C:\\Users\\samue\\Documents\\Desenvolvimento de sistemas\\Desenvolvimento de Sistemas\\Banco de dados\\Sprint 2\\Locadora_backEnd\\senai_filmes_webAPI\\senai_filmes_webAPI\\senai_filmes_webAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samue\\Desktop\\Sprint2\\Senai_Sprint2_BackEnd\\Locadora_backEnd\\senai_filmes_webAPI\\senai_filmes_webAPI\\senai_filmes_webAPI.csproj",
+        "projectUniqueName": "C:\\Users\\samue\\Documents\\Desenvolvimento de sistemas\\Desenvolvimento de Sistemas\\Banco de dados\\Sprint 2\\Locadora_backEnd\\senai_filmes_webAPI\\senai_filmes_webAPI\\senai_filmes_webAPI.csproj",
         "projectName": "senai_filmes_webAPI",
-        "projectPath": "C:\\Users\\samue\\Desktop\\Sprint2\\Senai_Sprint2_BackEnd\\Locadora_backEnd\\senai_filmes_webAPI\\senai_filmes_webAPI\\senai_filmes_webAPI.csproj",
+        "projectPath": "C:\\Users\\samue\\Documents\\Desenvolvimento de sistemas\\Desenvolvimento de Sistemas\\Banco de dados\\Sprint 2\\Locadora_backEnd\\senai_filmes_webAPI\\senai_filmes_webAPI\\senai_filmes_webAPI.csproj",
         "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samue\\Desktop\\Sprint2\\Senai_Sprint2_BackEnd\\Locadora_backEnd\\senai_filmes_webAPI\\senai_filmes_webAPI\\obj\\",
+        "outputPath": "C:\\Users\\samue\\Documents\\Desenvolvimento de sistemas\\Desenvolvimento de Sistemas\\Banco de dados\\Sprint 2\\Locadora_backEnd\\senai_filmes_webAPI\\senai_filmes_webAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config",
